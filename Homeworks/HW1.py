@@ -7,11 +7,11 @@ Homework 1:
 from random import randint
                                                  
 def main():
-	# Boş matris oluştulur
+	# Boş matris oluştulur.
 	rows, cols = (3, 3)
 	prime_matrix = [[0 for i in range(cols)] for j in range(rows)]
 
-	# Matrisin içi asal sayılarla doldurulur
+	# Matrisin içi asal sayılarla doldurulur.
 	for row in range(rows):
 		for col in range(cols):	
 			not_prime = True
@@ -30,7 +30,8 @@ def main():
 							# Üretilen asal sayı matristeki sayılardan farklı ise matrise eklenir.
 							prime_matrix[row][col] = rand_num
 							not_prime = False
-					
+	
+	# Matris yazdırılır.	
 	for i in range(rows):
 		for j in range(cols):
 			print(prime_matrix[i][j], end=" ")
