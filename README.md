@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# Global AI Hub Introduction to Python Programming Course
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021 
@@ -6,19 +6,9 @@
 **Surname:** İpekdüzen
 **Email:** u.ipkdzn@gmail.com  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
-
 ## Project Name
-Description of your project.
-
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
----
+My Homeworks and Final Project Repository
 
 ### Certification
-![](img/certificate_ex.png)
+![](img/32771488273793.png)
 
